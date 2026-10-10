@@ -195,6 +195,7 @@
   transition: background .15s ease, border-color .15s ease;
 }
 
+
 .pending-card:hover,
 .pending-card:focus-visible {
   background: #cdd2da;
